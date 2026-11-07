@@ -1,0 +1,3 @@
+[build]
+  command = "python3 prepare_netlify.py"
+  publish = "public"
